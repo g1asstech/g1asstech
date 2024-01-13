@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**g1asstech/g1asstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hello there!
+my name is g1ass 🔍
 
-Here are some ideas to get you started:
+## languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### fluent languages
+
+[![fluent languages](https://skillicons.dev/icons?i=lua,js,css,html)](https://skillicons.dev)
+##
+
+### languages im learning
+
+[![learning languages](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
+
+## computer specs
+
+- Computer: GE76 Raider MSI
+- GPU: RTX 3060
+- Mouse: some ass reddragon mouse
