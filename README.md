@@ -16,5 +16,7 @@ my name is g1ass 🔍
 ## computer specs
 
 - Computer: GE76 Raider MSI
-- GPU: RTX 3060
-- Mouse: some ass reddragon mouse
+- GPU: NVIDIA RTX 3060
+- 16 GB of RAM
+- 1TB SSD
+
