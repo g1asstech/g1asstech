@@ -6,7 +6,7 @@ my name is g1ass 🔍
 
 ### fluent languages
 
-[![fluent languages](https://skillicons.dev/icons?i=lua,js,css,html)](https://skillicons.dev)
+[![fluent languages](https://skillicons.dev/icons?i=lua,js,css,html,pr)](https://skillicons.dev)
 ##
 
 ### languages im learning
@@ -21,6 +21,6 @@ my name is g1ass 🔍
 - 1TB SSD
 
 ### website
-[![website](https://raw.githubusercontent.com/sungl4ss/sungl4ss/main/web.png)](https://sungl4ss.github.io/)
+[![website](https://raw.githubusercontent.com/sunglassdev/sunglassdev/main/web.png)](https://sunglassdev.github.io/)
 
 
