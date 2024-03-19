@@ -20,6 +20,6 @@ my name is g1ass 🔍
 - 24 GB of RAM
 - 1TB SSD and 512GB SSD
 
-[![Discord Presence]([https://lanyard.cnrad.dev/api/1202753080752607273](https://lanyard.cnrad.dev/api/1202753080752607273?borderRadius=5px&idleMessage=im%20probably%20doing%20nothing&bg=a7animated=true)https://lanyard.cnrad.dev/api/1202753080752607273?borderRadius=5px&idleMessage=im%20probably%20doing%20nothing&bg=a7animated=true)](https://discord.com/users/1202753080752607273)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1202753080752607273?borderRadius=5px&idleMessage=im%20probably%20doing%20nothing&bg=a7animated=true)](https://discord.com/users/1202753080752607273)
 
 
